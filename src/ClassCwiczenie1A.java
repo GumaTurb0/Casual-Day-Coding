@@ -1,4 +1,4 @@
-public class classCwiczenie1A {
+public class ClassCwiczenie1A {
     public static void main(String[] args) {
         int z = 1;
         while (z < 10) {

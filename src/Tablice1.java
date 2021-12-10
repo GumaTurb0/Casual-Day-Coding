@@ -3,6 +3,7 @@ public class Tablice1 {
         int[] treeElements = {3, 4, 5};
         for (int treeElement : treeElements) {
             System.out.print(treeElement + " ");
+
         }
     }
 }
