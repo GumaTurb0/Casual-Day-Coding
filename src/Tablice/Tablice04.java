@@ -16,7 +16,8 @@ public class Tablice04 {
 }
 
 /** stwórz tablicę o nazwie numbers zawierającą 10 dowolnych liczb,
- stwórz zmienną tablicową reverse i umieść w niej elementy tablicy numbers w odwrotnej kolejności,
+ stwórz zmienną tablicową reverse i umieść w niej elementy tablicy numbers
+ w odwrotnej kolejności,
  wypisz na konsoli elementy z tablicy reverse.
  Dla tablicy o elementach:
 

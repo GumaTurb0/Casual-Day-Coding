@@ -13,6 +13,7 @@ public class Tablice08 {
         System.out.println("Arrays.toString(numbers)" + Arrays.toString(numbers));
         Arrays.parallelSort(numbers);
         System.out.println("Arrays.toString(numbers)" + Arrays.toString(numbers));
+
     }
 }
 
