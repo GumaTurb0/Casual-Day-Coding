@@ -1,6 +1,6 @@
 package ZadaniaDomowe;
 
-public class DsStringsRxe7 {
+public class D2StringsRxe7 {
     public static void main(String[] args) {
         System.out.println("censor(\"abc def ghi jkl\", new String[] {\"abc\", \"ghi\"}) = " + censor("abc def ghi jkl", new String[]{"abc", "ghi"}));
         System.out.println("censor(\"abc def ghi jkl\", new String[]{\"bc\", \"hi\"}) = " + censor("abc def ghi jkl", new String[]{"bc", "hi"}));
